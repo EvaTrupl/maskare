@@ -1,0 +1,1 @@
+print("Polazak maskara u 9 sati kod srednje skole.Sastanak svih maski u 10 sati na centru grada Daruvara.Formiranje povorke te polazak u 11 i 30,obilazak grada.Ugodna zabava uz krafne i ples pod maskama sve do kasnih sati. ")
