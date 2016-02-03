@@ -1,1 +1,1 @@
-print(" selo vece")
+print(" selo manje")
